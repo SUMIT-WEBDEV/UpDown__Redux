@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UpDown__Redux/static/css/main.d925c16b.css",
+    "main.js": "/UpDown__Redux/static/js/main.80290911.js",
+    "index.html": "/UpDown__Redux/index.html",
+    "main.d925c16b.css.map": "/UpDown__Redux/static/css/main.d925c16b.css.map",
+    "main.80290911.js.map": "/UpDown__Redux/static/js/main.80290911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d925c16b.css",
+    "static/js/main.80290911.js"
+  ]
+}
