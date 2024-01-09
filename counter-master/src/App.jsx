@@ -9,11 +9,11 @@ function App() {
 
   return (
     <div className="app">
-      <div onClick={() => dispatch(increment())}>++</div>
+      <div onClick={() => dispatch(increment())}>+++++</div>
 
       <div>{myState}</div>
       
-      <div onClick={() => dispatch(decrement())}>-</div>
+      <div onClick={() => dispatch(decrement())}>-----</div>
     </div>
   );
 }
